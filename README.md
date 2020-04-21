@@ -2,7 +2,7 @@
 
 # I am working on the 10 days of javascript challenge to get expertise on Js
 
-##  Day-0
+# Day-0
 
 ## Task : Variables named firstInteger,firstDecimal and firstString are declared for you in the editor
 <ol>
@@ -29,4 +29,20 @@ Print the following three lines of output:
 .
 3. On the third line, print concatenated with . You must print
 before .
+
+
+# Day-1  Arithmetic Operators
+
+## Task
+
+Complete the following functions in the editor below:
+1. getArea(length, width): Calculate and return the area of a rectangle having sides and .
+2. getPerimeter(length, width) : Calculate and return the perimeter of a rectangle having sides
+and .
+The values returned by these functions are printed to stdout by locked stub code in the editor.
+
+
+
+
+
 
