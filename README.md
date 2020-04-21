@@ -2,7 +2,7 @@
 
 # I am working on the 10 days of javascript challenge to get expertise on Js
 
-##  day 0
+##  Day-0
 
 ## Task : Variables named firstInteger,firstDecimal and firstString are declared for you in the editor
 <ol>
