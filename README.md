@@ -4,7 +4,7 @@
 
 ##  day 0
 
-## Task : Variables named , , and are declared for you in the editor
+## Task : Variables named firstInteger,firstDecimal and firstString are declared for you in the editor
 <ol>
 <li> Convert to an integer (Number type), then sum it with and print the
   result on a new line using console.log .</li>
@@ -13,7 +13,9 @@
 <li> Print the concatenation of and on a new line using console.log . Note
   that must be printed first.</li>
   </ol>
-## Input Format
+  
+  
+###  Input Format
 
 Data Type Parameter Description
 string The string representation of an integer you must sum with .
