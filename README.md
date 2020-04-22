@@ -70,7 +70,7 @@ unless the variable is declared as a constant and named PI (uppercase).
 
 Complete the getGrade(score) function in the editor. It has one parameter: an integer, score, denoting the number of points Julia earned on an exam. It must return the letter corresponding to her Grade. 
 
-## Day-2  Conditional Statements: Switch
+# Day-2  Conditional Statements: Switch
 
 ## Task
 
