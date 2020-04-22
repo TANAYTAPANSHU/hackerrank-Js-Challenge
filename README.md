@@ -41,6 +41,18 @@ Complete the following functions in the editor below:
 and .
 The values returned by these functions are printed to stdout by locked stub code in the editor.
 
+# Day-1 Functions
+
+## Task
+
+Implement a function named factorial that has one parameter: an integer,n . It must return the value of
+n!(i.e. n factorial).
+Input Format
+Locked stub code in the editor reads a single integer,n , from stdin and passes it to a function named
+factorial.
+Constraints
+Output Format
+The function must return the value of n! .
 
 
 
