@@ -80,3 +80,13 @@ If the first character in string s is in the set {a,e,i,o,u} , then return A.
 If the first character in string s is in the set {b,c,d,f,g}, then return B.
 If the first character in string s is in the set {h,j,k,l,m} , then return C.
 If the first character in string s is in the set {n,p,q,r,s,t,v,w,x,y,z} , then return D.
+
+# Day-2 Loops
+
+## Task
+
+Complete the vowelsAndConsonants function in the editor below. It has one parameter, a string, , consisting of lowercase English alphabetic letters (i.e., a through z). The function must do the following:
+
+1.>First, print each vowel in s on a new line. The English vowels are a, e, i, o, and u, and each vowel must be printed in the same order as it appeared in .
+2.>Second, print each consonant (i.e., non-vowel) in s on a new line in the same order as it appeared in .
+
