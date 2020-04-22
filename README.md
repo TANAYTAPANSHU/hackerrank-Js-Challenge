@@ -64,6 +64,14 @@ unless the variable is declared as a constant and named PI (uppercase).
 3. Use PI and r to calculate the and of a circle having radius .
 4. Print area as the first line of output and print perimeter as the second line of output
 
+# Day-2 Conditional Statements: If-Else
+
+## Task 
+
+
+
+Complete the getGrade(score) function in the editor. It has one parameter: an integer, score, denoting the number of points Julia earned on an exam. It must return the letter corresponding to her Grade. 
+
 
 
 
