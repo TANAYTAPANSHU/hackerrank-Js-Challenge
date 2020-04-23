@@ -1,5 +1,10 @@
 ## hackerrank-Js-Challenge
 
+<p align="center">
+  <img src="hack.png">
+  </p>
+
+
 # I am working on the 10 days of javascript challenge to get expertise on Js
 
 # Day-0
