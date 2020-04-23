@@ -97,3 +97,14 @@ Complete the vowelsAndConsonants function in the editor below. It has one parame
 1.>First, print each vowel in s on a new line. The English vowels are a, e, i, o, and u, and each vowel must be printed in the same order as it appeared in .
 2.>Second, print each consonant (i.e., non-vowel) in s on a new line in the same order as it appeared in .
 
+# Day-3 Arrays
+
+## Task
+
+Complete the getSecondLargest function in the editor below. It has one parameter: an array,nums , of n numbers. The function must find and return the second largest number in nums .
+
+
+
+
+
+
