@@ -155,5 +155,19 @@ Locked code in the editor tests the Polygon constructor and the perimeter method
 Note: The perimeter method must be lowercase and spelled correctly.
 
 
+# Day-5 Inheritance
+
+## Task
+
+We provide the implementation for a Rectangle class in the editor. Perform the following tasks:
+
+Add an area method to Rectangle's prototype.
+Create a Square class that satisfies the following:
+1. It is a subclass of Rectangle.
+   It contains a constructor and no other methods.
+2. It can use the Rectangle class' area method to print the area of a Square object.
+   Locked code in the editor tests the class and method implementations and prints the area values to STDOUT.
+
+
 
 
