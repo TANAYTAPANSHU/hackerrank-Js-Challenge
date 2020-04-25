@@ -170,6 +170,17 @@ Create a Square class that satisfies the following:
 
 # Day-5 Template Literals
 
+## Task
+
 The code in the editor has a tagged template literal that passes the area and perimeter of a rectangle to a tag function named sides. Recall that the first argument of a tag function is an array of string literals from the template, and the subsequent values are the template's respective expression values.
 
 
+# Day-5 Arrow Functions
+
+## Task
+
+Complete the function in the editor. It has one parameter: an array,nums . It must iterate through the array performing one of the following actions on each element:
+
+If the element is even, multiply the element by 2 .
+If the element is odd, multiply the element by 3 .
+The function must then return the modified array.
