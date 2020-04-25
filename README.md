@@ -184,3 +184,11 @@ Complete the function in the editor. It has one parameter: an array,nums . It mu
 If the element is even, multiply the element by 2 .
 If the element is odd, multiply the element by 3 .
 The function must then return the modified array.
+
+
+# Day-6 Bitwise Operators
+
+# Task
+ Bitwise '&' binary operation is there
+
+
