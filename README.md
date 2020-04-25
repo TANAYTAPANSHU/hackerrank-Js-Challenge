@@ -168,6 +168,8 @@ Create a Square class that satisfies the following:
 2. It can use the Rectangle class' area method to print the area of a Square object.
    Locked code in the editor tests the class and method implementations and prints the area values to STDOUT.
 
+# Day-5 Template Literals
 
+The code in the editor has a tagged template literal that passes the area and perimeter of a rectangle to a tag function named sides. Recall that the first argument of a tag function is an array of string literals from the template, and the subsequent values are the template's respective expression values.
 
 
