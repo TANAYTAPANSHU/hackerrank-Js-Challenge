@@ -201,13 +201,37 @@ Given a date string,date string , in the format MM/DD/YYYY, find and return the 
 
 # Day-7 Regular expression I
 
+## Task
+Complete the function in the editor below by returning a RegExp object, , that matches any string  that begins and ends with the same vowel. Recall that the English vowels are a, e, i, o, and u.
+
 # Day-7 Regular expression II
+## Task
+Complete the function in the editor below by returning a RegExp object, , that matches any string  satisfying both of the following conditions:
+
+String  starts with the prefix Mr., Mrs., Ms., Dr., or Er.
+The remainder of string  (i.e., the rest of the string after the prefix) consists of one or more upper and/or lowercase English alphabetic letters (i.e., [a-z] and [A-Z]).
 
 # Day-7 Regular expression III
+## Task
+Complete the function in the editor below by returning a RegExp object,re , that matches every integer in some string s .
 
 # Day-8 Create Button
+## Task
+Complete the code in the editor so that it creates a clickable button satisfying the following properties:
+
+The button's id is btn.
+The button's initial text label is . After each click, the button must increment by . Recall that the button's text label is the JS object's innerHTML property.
+The button has the following style properties:
+A width of 96px.
+A height of 48px.
+The font-size attribute is 24px.
 
 # Day-8 Button Container
+## Task
+We want to create nine buttons enclosed in a div, laid out so they form a 3*3  grid. Each button has a distinct label from 1 to 9, and the labels on the outer buttons must rotate in the clockwise direction each time we click the middle button.
+
 
 # Day-9 Binary Calculator
+## Task
 
+Implement a simple calculator that performs the following operations on binary numbers: addition, subtraction, multiplication, and division.
