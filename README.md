@@ -199,3 +199,15 @@ The function must then return the modified array.
 
 Given a date string,date string , in the format MM/DD/YYYY, find and return the day name for that date. Each day name must be one of the following strings: Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, or Saturday. For example, the day name for the date 12/07/2016 is Wednesday.
 
+# Day-7 Regular expression I
+
+# Day-7 Regular expression II
+
+# Day-7 Regular expression III
+
+# Day-8 Create Button
+
+# Day-8 Button Container
+
+# Day-9 Binary Calculator
+
