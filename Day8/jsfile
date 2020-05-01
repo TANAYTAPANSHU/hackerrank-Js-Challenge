@@ -1,0 +1,11 @@
+let b = document.getElementById("btn");
+let i=0;
+b.addEventListener("click",()=>
+{
+i++;
+b.innerHTML=i;
+
+}
+
+
+)
