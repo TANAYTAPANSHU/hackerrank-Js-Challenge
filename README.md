@@ -235,3 +235,13 @@ We want to create nine buttons enclosed in a div, laid out so they form a 3*3  g
 ## Task
 
 Implement a simple calculator that performs the following operations on binary numbers: addition, subtraction, multiplication, and division.
+
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+# JS Resources 
+<ul>
+  <li>http://codekirei.com/posts/currying-with-arrow-functions/</li>
+  <li>https://stackoverflow.com/questions/27678052/usage-of-the-backtick-character-in-javascript</li>
+  
+</ul>  
