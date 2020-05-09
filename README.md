@@ -241,7 +241,7 @@ Implement a simple calculator that performs the following operations on binary n
 
 # JS Resources 
 <ul>
-  <li>http://codekirei.com/posts/currying-with-arrow-functions/</li>
-  <li>https://stackoverflow.com/questions/27678052/usage-of-the-backtick-character-in-javascript</li>
+  <li>http://codekirei.com/posts/currying-with-arrow-functions/  Use of Arrow Function(=>)</li>
+  <li>https://stackoverflow.com/questions/27678052/usage-of-the-backtick-character-in-javascript USe of Backtick(`)</li>
   
 </ul>  
